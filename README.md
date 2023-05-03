@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oscarlee0
 - 👀 I’m interested in ...Full Stark Development
-- 🌱 I’m currently learning ...Front-End Development
+- 🌱 I’m currently learning ...Full Stark Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email me - obetta.oscar11@gmail.com
 
