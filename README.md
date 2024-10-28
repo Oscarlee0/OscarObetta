@@ -1,5 +1,5 @@
  <h2>Hi 👋, I’m Oscar Obetta</h2>
-<h3>I'm a Frontend Devleoper</h3>
+<h3>I'm a Full-Stack Devleoper</h3>
 
 <h2>🛠️ Languages and Tools:</h2>
 
@@ -14,8 +14,8 @@
 </ul>
 
 - 📫 How to reach me: <a href='obetta.oscar11@gmail.com'>Email</a>  <a href='https://www.linkedin.com/in/oscarobetta/'>LinkedIn</a>
-- 🌱 I’m currently learning ReactJs and Tailwind
-- 👯 I’m looking to collaborate with blockchain developers
+- 🌱 I’m currently learning Django and Tailwind
+- 👯 I’m looking to collaborate with other web developers
 
 
 <!---
